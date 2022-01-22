@@ -59,6 +59,13 @@ Due to a specifically designed shopping cart, faster checkout process, and multi
 
 You are obviously where your customers are - and your competitors are not - if you have a mobile app. You don't have to go to your customers, you're always there for them.
 
+## Mobile App for Magento 2 by MageComp Manual
+
+[User Guide](https://magecomp.com/support/docs/mobile-app-magento-2/)
+[Installation Guide](https://magecomp.com/support/docs/magento-extension-installation-guide/extension-installation-guide-magento-marketplace-extension/)
+[Get Free Support](https://github.com/magecomp/Magento-2-Mobile-App-/issues)
+
+
 ## Screenshots
 
 **1. Signup**
