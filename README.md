@@ -62,7 +62,9 @@ You are obviously where your customers are - and your competitors are not - if y
 ## Mobile App for Magento 2 by MageComp Manual
 
 [User Guide](https://magecomp.com/support/docs/mobile-app-magento-2/)
+
 [Installation Guide](https://magecomp.com/support/docs/magento-extension-installation-guide/extension-installation-guide-magento-marketplace-extension/)
+
 [Get Free Support](https://github.com/magecomp/Magento-2-Mobile-App-/issues)
 
 
