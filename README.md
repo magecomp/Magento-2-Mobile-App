@@ -91,22 +91,22 @@ Email: [support@magecomp.com](mailto:support@magecomp.com)
 
 ## Magento Marketplace extension by MageComp
 
-[Product Surcharge](https://marketplace.magento.com/magecomp-module-productsurcharge.html)
+[Magento 2 Product Surcharge](https://marketplace.magento.com/magecomp-module-productsurcharge.html)
 
-[Save Cart](https://marketplace.magento.com/magecomp-module-savecart.html)
+[Magento 2 Save Cart](https://marketplace.magento.com/magecomp-module-savecart.html)
 
-[Indian GST](https://marketplace.magento.com/magecomp-module-gstcharge.html)
+[Magento 2 Indian GST](https://marketplace.magento.com/magecomp-module-gstcharge.html)
 
-[WhatsApp Share Cart](https://marketplace.magento.com/magecomp-module-whatsappsharecart.html)
+[Magento 2 WhatsApp Share Cart](https://marketplace.magento.com/magecomp-module-whatsappsharecart.html)
 
-[WhatsApp Contact](https://marketplace.magento.com/magecomp-module-whatsappcontact.html)
+[Magento 2 WhatsApp Contact](https://marketplace.magento.com/magecomp-module-whatsappcontact.html)
 
 [Custom Redirect](https://marketplace.magento.com/magecomp-module-customredirect.html)
 
-[Delivery Date](https://marketplace.magento.com/magecomp-module-deliverydate.html)
+[Magento 2 Delivery Date](https://marketplace.magento.com/magecomp-module-deliverydate.html)
 
-[Price Calculator](https://marketplace.magento.com/magecomp-magento-2-price-calculator.html)
+[Magento 2 Price Calculator](https://marketplace.magento.com/magecomp-magento-2-price-calculator.html)
 
-[Admin Actions Log](https://marketplace.magento.com/magecomp-magento-2-admin-actions-log.html)
+[Magento 2 Admin Actions Log](https://marketplace.magento.com/magecomp-magento-2-admin-actions-log.html)
 
-[Virtual Keyboard](https://marketplace.magento.com/magecomp-magento-2-virtual-keyboard.html)
+[Magento 2 Virtual Keyboard](https://marketplace.magento.com/magecomp-magento-2-virtual-keyboard.html)
