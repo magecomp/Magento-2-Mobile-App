@@ -21,6 +21,44 @@ Manage your Magento E-commerce business from your mobile device. Create a [Mobil
 
 * Enhance your client base with Mobile App
 
+## Benefits
+
+* **Improved Customer Experience**
+
+With a comprehensive Mobile App for your website, you can increase customer satisfaction, decrease churn, and increase revenue.
+
+* **Improved Conversion Rate**
+
+We have carefully planned and designed our Mobile App. It will increase your web traffic, increasing your conversion rate.
+
+* **Increase Brand Recognition**
+
+Once an application is installed on a mobile device, users will see the brand logo frequently, thereby increasing visibility and awareness.
+
+* **Boost repeat sales**
+
+Increase repeat purchases by offering discounts on your next purchase.
+
+* **Build Customer Connection**
+
+To increase their customer base with a Mobile App, businesses want to establish a connection with their potential customers to keep them loyal.
+
+* **Real-time Syncing**
+
+MageComp's Mobile Application offers synchronization for any and all scenarios, a necessary feature in all eCommerce mobile applications.
+
+* **Get Detailed Customer Insights**
+
+Compose and analyze customer feedback and other informational sources to make informed business decisions. 
+
+* **Lessen Abandoned Cart**
+
+Due to a specifically designed shopping cart, faster checkout process, and multiple payment options, our mobile app significantly reduces abandoned cart rates.
+
+* **Competitive Advantage in Business**
+
+You are obviously where your customers are - and your competitors are not - if you have a mobile app. You don't have to go to your customers, you're always there for them.
+
 ## Screenshots
 
 **1. Signup**
