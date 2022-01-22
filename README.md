@@ -9,17 +9,17 @@ Manage your Magento E-commerce business from your mobile device. Create a [Mobil
 
 # Main Feature
 
-*Quickly launch Mobile App for your E-commerce store
+* Quickly launch Mobile App for your E-commerce store
 
-*No technical knowledge required
+* No technical knowledge required
 
-*Bring top-selling products into the spotlight
+* Bring top-selling products into the spotlight
 
-*Send mobile push notifications to customers
+* Send mobile push notifications to customers
 
-*Supported all Magento product types
+* Supported all Magento product types
 
-*Enhance your client base with Mobile App
+* Enhance your client base with Mobile App
 
 ## Screenshots
 
