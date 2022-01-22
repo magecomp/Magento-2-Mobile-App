@@ -69,4 +69,44 @@ Email: [support@magecomp.com](mailto:support@magecomp.com)
 
 ## Other Magento 2 Extensions by MageComp
 
+[Magento 2 Inventory Sync SOAP API](https://magecomp.com/magento-2-inventory-sync-soap-api.html)
 
+[Magento 2 Aramex Shipping Integration](https://magecomp.com/magento-2-aramex-shipping-integration.html)
+
+[Magento 2 Alternate Hreflang Tags](https://magecomp.com/magento-2-alternate-hreflang-tags.html)
+
+[Magento 2 Maintenance Page](https://magecomp.com/magento-2-maintenance-page.html)
+
+[Magento 2 Notification Bar Pro](https://magecomp.com/magento-2-notification-bar-pro.html)
+
+[Magento 2 CCAvenue Payment Gateway](https://magecomp.com/magento-2-ccavenue-payment-gateway.html)
+
+[Magento 2 Abandoned Cart Email](https://magecomp.com/magento-2-abandoned-cart-email.html)
+
+[Magento 2 Price Calculator](https://magecomp.com/magento-2-price-calculator.html)
+
+[Magento 2 Custom Options With Weight](https://magecomp.com/magento-2-custom-options-weight.html)
+
+[Magento 2 Mobile Login with Email Optional](https://magecomp.com/magento-2-mobile-login-email-optional.html)
+
+## Magento Marketplace extension by MageComp
+
+[Product Surcharge](https://marketplace.magento.com/magecomp-module-productsurcharge.html)
+
+[Save Cart](https://marketplace.magento.com/magecomp-module-savecart.html)
+
+[Indian GST](https://marketplace.magento.com/magecomp-module-gstcharge.html)
+
+[WhatsApp Share Cart](https://marketplace.magento.com/magecomp-module-whatsappsharecart.html)
+
+[WhatsApp Contact](https://marketplace.magento.com/magecomp-module-whatsappcontact.html)
+
+[Custom Redirect](https://marketplace.magento.com/magecomp-module-customredirect.html)
+
+[Delivery Date](https://marketplace.magento.com/magecomp-module-deliverydate.html)
+
+[Price Calculator](https://marketplace.magento.com/magecomp-magento-2-price-calculator.html)
+
+[Admin Actions Log](https://marketplace.magento.com/magecomp-magento-2-admin-actions-log.html)
+
+[Virtual Keyboard](https://marketplace.magento.com/magecomp-magento-2-virtual-keyboard.html)
