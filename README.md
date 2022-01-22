@@ -59,6 +59,10 @@ Due to a specifically designed shopping cart, faster checkout process, and multi
 
 You are obviously where your customers are - and your competitors are not - if you have a mobile app. You don't have to go to your customers, you're always there for them.
 
+* **Voice Search Functionality**
+
+Voice Search feature helps users to find products easily and get rid of scrolling.
+
 ## Mobile App for Magento 2 by MageComp Manual
 
 [User Guide](https://magecomp.com/support/docs/mobile-app-magento-2/)
