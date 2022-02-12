@@ -1,4 +1,4 @@
-# [Magento-2-Mobile-App](https://magecomp.com/magento-2-mobile-app-builder.html) by MageComp
+# [Magento-2-Mobile-App-Builder](https://magecomp.com/magento-2-mobile-app-builder.html) by MageComp
 
 Manage your Magento E-commerce business from your mobile device. Create a [Mobile App for your eCommerce](https://mobileapp.magecomp.com/) store and let customers make purchases from your Mobile App with no technical skills required.
 
