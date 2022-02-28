@@ -29,7 +29,7 @@ With a comprehensive Mobile App for your website, you can increase customer sati
 
 * **Improved Conversion Rate**
 
-We have carefully planned and designed our Mobile App. It will increase your web traffic, increasing your conversion rate.
+We have carefully planned and designed our Mobile App for Magento 2. It will increase your web traffic, increasing your conversion rate.
 
 * **Increase Brand Recognition**
 
@@ -70,6 +70,8 @@ Voice Search feature helps users to find products easily and get rid of scrollin
 [Installation Guide](https://magecomp.com/support/docs/magento-extension-installation-guide/extension-installation-guide-magento-marketplace-extension/)
 
 [Get Free Support](https://github.com/magecomp/Magento-2-Mobile-App-/issues)
+
+For More Introduction: [Magento 2 Mobile App Builder](https://www.youtube.com/watch?v=CcLGBm6ZUsY)
 
 
 ## Screenshots
@@ -163,3 +165,9 @@ Email: [support@magecomp.com](mailto:support@magecomp.com)
 [Magento 2 Admin Actions Log](https://marketplace.magento.com/magecomp-magento-2-admin-actions-log.html)
 
 [Magento 2 Virtual Keyboard](https://marketplace.magento.com/magecomp-magento-2-virtual-keyboard.html)
+
+## Support 
+
+Is this extension not meeting your business needs or do you need help configuring it?
+
+Send us email to [support@magecomp.com](mailto:suport@magecomp.com) or [WhatsApp Us](https://wa.me/+917990250277/).
