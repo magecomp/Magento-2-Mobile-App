@@ -120,7 +120,7 @@ Phone: +917990250277
 
 Email: [support@magecomp.com](mailto:support@magecomp.com)
 
-**For More Details: [Magento 2 Mobile App](https://mobileapp.magecomp.com/)**
+**For More Details: [Magento 2 Mobile App Builder GitHub](https://mobileapp.magecomp.com/)**
 
 ## Other Magento 2 Extensions by MageComp
 
