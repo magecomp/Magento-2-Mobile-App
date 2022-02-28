@@ -7,6 +7,14 @@ Magento 2 Mobile App Builder for (Android & iOS) helps your customer to purchase
 # Requirements
 *Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
 
+# Change Log
+
+**Version 1.1**
+
+Updated with GraphQL APIs
+
+Voice Search 
+
 # Main Feature
 
 * Quickly launch Mobile App for your E-commerce store
