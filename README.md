@@ -11,9 +11,9 @@ Magento 2 Mobile App Builder for (Android & iOS) helps your customer to purchase
 
 **Version 1.1**
 
-Updated with GraphQL APIs
+* Updated with GraphQL APIs
 
-Voice Search 
+* Voice Search 
 
 # Main Feature
 
