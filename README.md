@@ -1,6 +1,6 @@
 # [Magento-2-Mobile-App-Builder](https://magecomp.com/magento-2-mobile-app-builder.html) by MageComp
 
-Manage your Magento E-commerce business from your mobile device. Create a [Mobile App for your eCommerce](https://mobileapp.magecomp.com/) store and let customers make purchases from your Mobile App with no technical skills required.
+Magento 2 Mobile App Builder for (Android & iOS) helps your customer to purchase from mobile devices and helps you to increase in ROI. Manage your Magento E-commerce business from your mobile device. Create a [Mobile App for your eCommerce](https://mobileapp.magecomp.com/) store and let customers make purchases from your Mobile App with no technical skills required.
 
 <a href="https://magecomp.com/magento-2-mobile-app-builder.html"><img width="300" height="92" src="https://magecomp.com/media/button.webp"></a>
 
@@ -71,7 +71,7 @@ Voice Search feature helps users to find products easily and get rid of scrollin
 
 [Get Free Support](https://github.com/magecomp/Magento-2-Mobile-App-/issues)
 
-For More Introduction: [Magento 2 Mobile App Builder](https://www.youtube.com/watch?v=CcLGBm6ZUsY)
+For More Introduction (See Our Video): [Magento 2 Mobile App Builder](https://www.youtube.com/watch?v=CcLGBm6ZUsY)
 
 
 ## Screenshots
@@ -120,7 +120,7 @@ Phone: +917990250277
 
 Email: [support@magecomp.com](mailto:support@magecomp.com)
 
-**For More Details: [Magento 2 Mobile App Builder GitHub](https://mobileapp.magecomp.com/)**
+**For More Details: [Magento 2 Mobile App Builder](https://mobileapp.magecomp.com/)**
 
 ## Other Magento 2 Extensions by MageComp
 
