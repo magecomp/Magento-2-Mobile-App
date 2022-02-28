@@ -118,6 +118,8 @@ Phone: +917990250277
 
 Email: [support@magecomp.com](mailto:support@magecomp.com)
 
+**For More Details: [Magento 2 Mobile App](https://mobileapp.magecomp.com/)**
+
 ## Other Magento 2 Extensions by MageComp
 
 [Magento 2 Inventory Sync SOAP API](https://magecomp.com/magento-2-inventory-sync-soap-api.html)
